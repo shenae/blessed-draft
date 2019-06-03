@@ -5,11 +5,11 @@
 ## Project Overview
 This is my final project assignment for General Assembly's Software Engineering Immersive program. Here are the requirements: 
 
-* A working API, hosted somewhere on the internet
-* A handmade front-end that consumes your own API, hosted somewhere on the internet
-* A link to your hosted working app in the URL section of your Github repo
-* A link to your repository hosted on your personal Github account, with a link to your hosted project, and frequent commits dating back to the very beginning of the project
-* A README.md file with:
+1. A working API, hosted somewhere on the internet
+2. A handmade front-end that consumes your own API, hosted somewhere on the internet
+3. A link to your hosted working app in the URL section of your Github repo
+4. A link to your repository hosted on your personal Github account, with a link to your hosted project, and frequent commits dating back to the very beginning of the project
+5. A README.md file with:
     - Explanations of the technologies used
     - A couple of paragraphs about the general approach you took
     - Installation instructions for any dependencies
@@ -23,10 +23,9 @@ This is my final project assignment for General Assembly's Software Engineering 
 I am creating a Twitter deck that will display the tweets of female politicians.
 
 ### User Story
-My target audience is college educated women aged 25-45 years old. 
-As a woman aged 25-45 years old
-I want to see a list of women in politics
-So that I can increase the number of women in politics and protect my rights
+As a __woman aged 25-45 years old__
+I want to __see a list of women in politics__
+So that I can __increase the number of women in politics and protect my rights__
 
 ### Project Schedule table
 
@@ -43,22 +42,22 @@ Day 8: Friday    | Presentation in Class
 Day 9: Monday  | Presentation During Science Fair
 
 ### Technologies Being Used:
-For this project, I will be using Ruby on Rails, React, and a Twitter API. 
+For this project, I will be using Ruby on Rails and React. 
 
-Implementation Problems: Making the API and having a keyword search option are the main issues.
+*Implementation Problems:* Making the API and having a keyword search option are the main issues.
 
-Explanation to Solve the Problems:  The API will be created using the Twitter gem.
+*Explanation to Solve the Problems:*  The API will be created using the Twitter gem.
 
 ### Entity Relationship Diagram (ERD)
 https://github.com/shenae/blessed-be-the-pantsuit/blob/master/BlessedBeThePantsuitERD.png
 
 ### MVP
-    * Twitter API 
-	* Keyword Search/Submit
-	* Favorite
+    *  Twitter API 
+	*  Keyword Search/Submit
+	*  Favorite
 
 ### Post MVP
-    * Twitter bot 
+    *  Twitter bot 
 
 ### Wireframes
 - https://wireframe.cc/w9fdtN - Example tweet page
