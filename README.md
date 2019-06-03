@@ -25,7 +25,7 @@ I am creating a Twitter deck that will display the tweets of female politicians.
 ### User Story
 As a __woman aged 25-45 years old__
 I want to __see a list of women in politics__
-So that I can __increase the number of women in politics and protect my rights__
+so that I can __increase the number of women in politics and protect my rights__
 
 ### Project Schedule table
 
