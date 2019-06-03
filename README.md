@@ -1,56 +1,66 @@
-# General Assembly - Project 2
+# General Assembly - Final Project
 
-#### Project Name: Blessed Be the Pantsuit
+## Project Name: Blessed Be the Pantsuit
 
 ## Project Overview
-This is my second project assignment for General Assembly's Software Engineering Immersive program. Here are the requirements: 
+This is my final project assignment for General Assembly's Software Engineering Immersive program. Here are the requirements: 
 
-    *Be a working, interactive, React application.
-    *Pull data into the application using an API
-    *Have at least 3 separate components, in a components folder in your application.
-    *Be built using Create React App.
-    *Be deployed via Heroku.
-    *Be styled with CSS.
-    *Use Flexbox or CSS Grid.
+* A working API, hosted somewhere on the internet
+* A handmade front-end that consumes your own API, hosted somewhere on the internet
+* A link to your hosted working app in the URL section of your Github repo
+* A link to your repository hosted on your personal Github account, with a link to your hosted project, and frequent commits dating back to the very beginning of the project
+* A README.md file with:
+    - Explanations of the technologies used
+    - A couple of paragraphs about the general approach you took
+    - Installation instructions for any dependencies
+    - Link to your ERDs - Diagrams of your models and their relationships.
+    - Link to your user stories – who are your users, what do they want, and why?
+    - Link to your wireframes – sketches of views and interfaces in your application
+    - Descriptions of any unsolved problems or hurdles you had to overcome
+
 
 ### Description
-I am creating a Twitter bot that will post/retweet positive tweets about female politicians.
+I am creating a Twitter deck that will display the tweets of female politicians.
 
-###Project Schedule table
+### User Story
+My target audience is college educated women aged 25-45 years old. 
+As a woman aged 25-45 years old
+I want to see a list of women in politics
+So that I can increase the number of women in politics and protect my rights
+
+### Project Schedule table
 
 Day | Deliverable
 -----------------|----------------------------------------
-Day 1: Friday    | Idea, Wireframes, Research
-Day 2: Saturday    | Component Hierarchy, Pseudo Code
-Day 3: Sunday   | Coding
-Day 4: Monday | Coding
-Day 5: Tuesday  | Working Prototype, Testing
+Day 1: Friday    | Idea, Research
+Day 2: Saturday    | ERD, Wireframes
+Day 3: Sunday   |  User Story, Pseudo Code
+Day 4: Monday | Project Proposal/Approval, Coding
+Day 5: Tuesday  | Coding, Working Prototype
 Day 6: Wednesday    | Editing, Final Testing
-Day 6: Thursday    | App Completed, Deployment
-Day 6: Friday    | Presentation
-
-
-
-### App Components
-	*Twitter API
-	*Bot 
-	*Keyword Search/Submit
-	*Twitter Timeline
+Day 7: Thursday    | App Completed, Deployment
+Day 8: Friday    | Presentation in Class
+Day 9: Monday  | Presentation During Science Fair
 
 ### Technologies Being Used:
-For this project, I will be using React, Node.js, and a Twitter API. 
+For this project, I will be using Ruby on Rails, React, and a Twitter API. 
 
-Implementation Problems: Making the bot, having a keyword search option for the bot to respond to/with and using the twitter API. 
+Implementation Problems: Making the API and having a keyword search option are the main issues.
 
-Explanation to Solve the Problems:  The bot will be created by using Twit, the API client for Node. I will make a keyword array for the bot to search for and reply to with tweets. 
+Explanation to Solve the Problems:  The API will be created using the Twitter gem.
 
 ### MVP
-
+    *Twitter API 
+	*Keyword Search/Submit
+	*Favorite
 
 ### Post MVP
+    *Twitter bot 
+
 
 ### Wireframes
-Wireframe is attached.
+https://wireframe.cc/w9fdtN - Example tweet and pic
+https://wireframe.cc/7rkpeE - Search page
 
 ### Deployment
 This project will be deployed on Heroku.
