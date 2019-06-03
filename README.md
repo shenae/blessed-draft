@@ -49,6 +49,9 @@ Implementation Problems: Making the API and having a keyword search option are t
 
 Explanation to Solve the Problems:  The API will be created using the Twitter gem.
 
+### Entity Relationship Diagram (ERD)
+
+
 ### MVP
     *Twitter API 
 	*Keyword Search/Submit
@@ -56,7 +59,6 @@ Explanation to Solve the Problems:  The API will be created using the Twitter ge
 
 ### Post MVP
     *Twitter bot 
-
 
 ### Wireframes
 https://wireframe.cc/w9fdtN - Example tweet and pic
