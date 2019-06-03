@@ -50,19 +50,19 @@ Implementation Problems: Making the API and having a keyword search option are t
 Explanation to Solve the Problems:  The API will be created using the Twitter gem.
 
 ### Entity Relationship Diagram (ERD)
-
+https://github.com/shenae/blessed-be-the-pantsuit/blob/master/BlessedBeThePantsuitERD.png
 
 ### MVP
-    *Twitter API 
-	*Keyword Search/Submit
-	*Favorite
+    * Twitter API 
+	* Keyword Search/Submit
+	* Favorite
 
 ### Post MVP
-    *Twitter bot 
+    * Twitter bot 
 
 ### Wireframes
-https://wireframe.cc/w9fdtN - Example tweet and pic
-https://wireframe.cc/7rkpeE - Search page
+- https://wireframe.cc/w9fdtN - Example tweet page
+- https://wireframe.cc/7rkpeE - Search page
 
 ### Deployment
 This project will be deployed on Heroku.
